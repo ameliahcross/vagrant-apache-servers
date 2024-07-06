@@ -1,0 +1,5 @@
+# Ignora las claves privadas de Vagrant
+.vagrant/machines/*/virtualbox/private_key
+
+# Ignora otros archivos de configuración y estado de Vagrant
+.vagrant/
